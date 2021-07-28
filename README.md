@@ -1,0 +1,1 @@
+Simple Chatty Bot is a simple AI-less program that I wrote to remember Python's basics.
